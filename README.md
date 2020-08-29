@@ -1,2 +1,2 @@
-# BASIC CV PAGE
-## Using HTML
+# Computer Science  
+## BASIC CV-Resume Page Using HTML
