@@ -1,2 +1,3 @@
 ## Computer Science BASIC CV-Resume Page 
-### USING HTML
+
+CV-Page was made using only HTML.
